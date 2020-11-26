@@ -2,7 +2,7 @@
 <dependencies>
     <unityversion>1.3.0</unityversion>
     <androidPackages>
-        <androidPackage spec="com.mi.dev.mint:admob-adapter:19.1.0_3@aar">
+        <androidPackage spec="com.mi.dev.mint:admob-adapter:19.1.0_3">
             <repositories>
                 <repository>https://maven.google.com/</repository>
             </repositories>
